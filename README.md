@@ -8,6 +8,7 @@ Welcome to the AwesomeDevEvents API, a personal project developed in ASP.NET Cor
 
 - 📅 **RESTful API:** A RESTful API offering CRUD operations for event manipulation.
 - 🚀 **ASP.NET Core Standards:** Implementation follows recommended ASP.NET Core practices.
+- 🛢️ **Entity Framework:** Utilizes Entity Framework to connect seamlessly to a SQL Server database.
 
 ## How to Test:
 
